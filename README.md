@@ -1,4 +1,4 @@
-## Hello, my name is Gabriel Pozeti, i'm:
+## Hello, my name is Gabriel Pozeti, I'm:
 
 - 25 years old
 - In my first year of my Computer Engineering degree
