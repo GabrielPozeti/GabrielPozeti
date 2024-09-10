@@ -1,7 +1,7 @@
 ## Hello, my name is Gabriel Pozeti, i'm:
 
-#-25 years old
-#- In my first year of my Computer Engineering degree
+- 25 years old
+- In my first year of my Computer Engineering degree
 
 <div>
   <a href="https://github.com/GabrielPozeti">
