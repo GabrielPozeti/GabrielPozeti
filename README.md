@@ -2,6 +2,7 @@
 
 - 25 years old
 - In my first year of my Computer Engineering degree
+- Looking for my first internship oportunity
 
 <div>
   <a href="https://github.com/GabrielPozeti">
