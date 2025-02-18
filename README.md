@@ -1,7 +1,7 @@
 ## Hello, my name is Gabriel Pozeti, I'm:
 
 - 25 years old
-- In my first year of my Computer Engineering degree
+- In my second year of my Computer Engineering degree
 - Looking for my first internship opportunity
 
 <div>
