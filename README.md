@@ -1,6 +1,6 @@
 ## Hello, my name is Gabriel Pozeti, I'm:
 
-- 25 years old
+- 27 years old
 - In my second year of my Software Engineering degree
 - Currently working as an Backend Intern at Buckman Chemistry
 
